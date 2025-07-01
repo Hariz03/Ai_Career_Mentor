@@ -1,5 +1,5 @@
 import frontend.pages.resume_analysis_app as resume_analysis
-import frontend.pages.skill_gap_app as skill_gap
+import frontend.pages.Skill_gap_app as skill_gap
 import frontend.pages.career_advisor_app as career_advisor
 import frontend.pages.roadmap_Generator_app as roadmap
 import frontend.pages.job_scrapping_app as job_scraper
